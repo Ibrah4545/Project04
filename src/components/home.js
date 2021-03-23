@@ -283,14 +283,7 @@ maxWidth:'200px',maxHeight:'150px'}} onClick={Message} className='txt_' src={tk}
              vegetation type is Moist evergreen rainforest with tall hardwood 
              trees up 65m in height. 
         </p>
-     {piccount==5 &&   <Ticker mode='smooth'>
-        {({ index }) => (
-            <>
-                <h1 style={{color:'white'}}>Made possible by Host</h1>
-                <img src="www.my-image-source.com/" alt=""/>
-            </>
-        )}
-    </Ticker>}
+    
         </div>}
         </div>
         <div className='body_main'>
