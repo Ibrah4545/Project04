@@ -9,7 +9,7 @@ import Swal from 'sweetalert2'
 function Home() {
    
 
-    const log='/02.jpg'
+   const log='/02.jpg'
     const abc='/bnb.jpg'
     
     const lg='/ab.jpg'
