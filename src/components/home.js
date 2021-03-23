@@ -1,9 +1,7 @@
 
 import React,{useState,useEffect} from 'react'
-//import { __SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED } from 'react-dom'
+
 import  './home.css'
-import Ticker from 'react-ticker';
-//import logo from "./public/logo192.png";
 import Swal from 'sweetalert2'
 
 function Home() {
